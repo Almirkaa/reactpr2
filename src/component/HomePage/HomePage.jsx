@@ -11,7 +11,6 @@ export function HomePage(){
         </section>
         <section className={s.catalog}>
             <Catalog></Catalog>
-            
         </section>
         </>
     )
