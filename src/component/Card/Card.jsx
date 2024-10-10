@@ -6,7 +6,7 @@ export function Card() {
         <>
             <div className={s.card}>
                 <div className={s.imgBox}>
-                    <img src="/src/assets/Card.png" alt="" />
+                    <img src="./src/assets/Card.png" alt="" />
                 </div>
                 <h4>Ароматизатор для автомобиля Diamond candle c ароматом "Кожа и древесина"</h4>
                 <div className={s.price_btn}>
